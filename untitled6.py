@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1NOsq0Yo-5CPyjc3OpkR8UJPPhW9IcaMW
 """
 
+#Before getting into the code first go to goolge colab and install Youtube api v3 inorder to extract the comments from youtube#
+
 pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client pandas transformers torch
 
 import os
